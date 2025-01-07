@@ -1,16 +1,23 @@
-## Hi there 👋
+# Bienvenido a Mi Perfil de GitHub
 
-<!--
-**AlanSPS/AlanSPS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Acerca de Mí
+Hola, soy Alan Jesús, especialista en Consultoría DevOps en SPS. Me apasiona la nube, AWS y Azure y sus operaciones.
 
-Here are some ideas to get you started:
+## Mi Rol en SPS
+Soy consultor DevOps con la tarea de optimizar y automatizar procesos para los departamentos de dev y ops
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades y Expertise
+AWS
+Azure
+GitHub
+IaC
+Monitoreo
+Serverless
+Services
+
+## Cómo Colaboro
+Considero que la mejor manera de trabajar es en equipo, una persona por si sola es capaz de mucho, en conjunto de todo.
+
+## Contacto
+Correo Electrónico: asegundo@spsolutions.com.mx
+LinkedIn: AlanSPS
