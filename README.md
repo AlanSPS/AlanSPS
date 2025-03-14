@@ -4,7 +4,7 @@
 Hola, soy Alan Jesús, especialista en Consultoría DevOps en SPS. Me apasiona la nube, AWS y Azure y sus operaciones.
 
 ## Mi Rol en SPS
-Soy consultor DevOps con la tarea de optimizar y automatizar procesos para los departamentos de dev y ops
+Soy consultor DevOps con la tarea de optimizar y automatizar procesos para los departamentos de dev y Ops de una forma eficiente que permita el flujo correcto de los procesos
 
 ## Habilidades y Expertise
 AWS
